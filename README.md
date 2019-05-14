@@ -8,4 +8,5 @@ Sketching game that uses TensorFlow.js to make predictions about images that are
 > **React-Router**  
 > **Material-UI**  
 > **React-JSS**  
+> **The Quick, Draw!** dataset  
 
