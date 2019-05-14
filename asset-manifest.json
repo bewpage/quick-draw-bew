@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/bewpage/quick-draw-bew/static/js/main.dd9b85c4.chunk.js",
-    "main.js.map": "/bewpage/quick-draw-bew/static/js/main.dd9b85c4.chunk.js.map",
-    "runtime~main.js": "/bewpage/quick-draw-bew/static/js/runtime~main.0acf05da.js",
-    "runtime~main.js.map": "/bewpage/quick-draw-bew/static/js/runtime~main.0acf05da.js.map",
-    "static/js/2.006880f8.chunk.js": "/bewpage/quick-draw-bew/static/js/2.006880f8.chunk.js",
-    "static/js/2.006880f8.chunk.js.map": "/bewpage/quick-draw-bew/static/js/2.006880f8.chunk.js.map",
-    "index.html": "/bewpage/quick-draw-bew/index.html",
-    "precache-manifest.efe5f169c09ce7515309ca10172daee4.js": "/bewpage/quick-draw-bew/precache-manifest.efe5f169c09ce7515309ca10172daee4.js",
-    "service-worker.js": "/bewpage/quick-draw-bew/service-worker.js"
+    "main.js": "/quick-draw-bew/static/js/main.7809c09e.chunk.js",
+    "main.js.map": "/quick-draw-bew/static/js/main.7809c09e.chunk.js.map",
+    "runtime~main.js": "/quick-draw-bew/static/js/runtime~main.5f125f43.js",
+    "runtime~main.js.map": "/quick-draw-bew/static/js/runtime~main.5f125f43.js.map",
+    "static/js/2.0a936b1a.chunk.js": "/quick-draw-bew/static/js/2.0a936b1a.chunk.js",
+    "static/js/2.0a936b1a.chunk.js.map": "/quick-draw-bew/static/js/2.0a936b1a.chunk.js.map",
+    "index.html": "/quick-draw-bew/index.html",
+    "precache-manifest.8610b96e339f2c1d03dc56b918f1cde3.js": "/quick-draw-bew/precache-manifest.8610b96e339f2c1d03dc56b918f1cde3.js",
+    "service-worker.js": "/quick-draw-bew/service-worker.js"
   }
 }
