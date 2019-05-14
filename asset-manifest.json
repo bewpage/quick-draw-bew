@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/bewpage/quick-draw-bew/static/js/main.dd9b85c4.chunk.js",
+    "main.js.map": "/bewpage/quick-draw-bew/static/js/main.dd9b85c4.chunk.js.map",
+    "runtime~main.js": "/bewpage/quick-draw-bew/static/js/runtime~main.0acf05da.js",
+    "runtime~main.js.map": "/bewpage/quick-draw-bew/static/js/runtime~main.0acf05da.js.map",
+    "static/js/2.006880f8.chunk.js": "/bewpage/quick-draw-bew/static/js/2.006880f8.chunk.js",
+    "static/js/2.006880f8.chunk.js.map": "/bewpage/quick-draw-bew/static/js/2.006880f8.chunk.js.map",
+    "index.html": "/bewpage/quick-draw-bew/index.html",
+    "precache-manifest.efe5f169c09ce7515309ca10172daee4.js": "/bewpage/quick-draw-bew/precache-manifest.efe5f169c09ce7515309ca10172daee4.js",
+    "service-worker.js": "/bewpage/quick-draw-bew/service-worker.js"
+  }
+}
